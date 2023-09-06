@@ -2,8 +2,8 @@
 Niniejsza polityka prywatności określa zasady gromadzenia, wykorzystywania i ujawniania danych osobowych przez Grzegorza Jarosińskiego w związku z Twoją wizytą na stronie internetowej Office - Makra i korzystaniem z mojej aplikacji Rozdzielnie.
 ### 1. Informacje, które gromadzę.
 Gromadzę następujące rodzaje informacji o Tobie:
-• Informacje, które podajesz w sklepie Google Play, w związku z zakupem aplikacji Rozdzielnie, możesz podać nam swoje imię i nazwisko, adres e-mail, numer telefonu i inne dane osobowe.
-• Informacje, które przekazujesz mi osobiście kierując wiadomości na adres e-mail jarosinski.grzegorz@gmail.coim.
+* Informacje, które podajesz w sklepie Google Play, w związku z zakupem aplikacji Rozdzielnie, możesz podać nam swoje imię i nazwisko, adres e-mail, numer telefonu i inne dane osobowe.
+* Informacje, które przekazujesz mi osobiście kierując wiadomości na adres e-mail jarosinski.grzegorz@gmail.coim.
 ### 2. Jak wykorzystuję Twoje dane osobowe
 Korzystam z Twoich danych osobowych w następujących celach:
 • Aby zapewnić Ci obsługę.
