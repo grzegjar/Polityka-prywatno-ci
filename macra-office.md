@@ -6,11 +6,11 @@ Gromadzę następujące rodzaje informacji o Tobie:
 * Informacje, które przekazujesz mi osobiście kierując wiadomości na adres e-mail jarosinski.grzegorz@gmail.coim.
 ### 2. Jak wykorzystuję Twoje dane osobowe
 Korzystam z Twoich danych osobowych w następujących celach:
-• Aby zapewnić Ci obsługę.
-• Aby poprawić i rozwijać aplikację Rozdzielnie.
-• Aby chronić aplikację Rozdzielnie przed oszustwami i innymi nadużyciami.
+* Aby zapewnić Ci obsługę.
+* Aby poprawić i rozwijać aplikację Rozdzielnie.
+* Aby chronić aplikację Rozdzielnie przed oszustwami i innymi nadużyciami.
 ### 3. Udostępnianie Twoich danych osobowych
-• Organy ścigania lub inne organy rządowe, jeśli jesteśmy zobowiązani do udostępnienia tych informacji zgodnie z prawem.
+* Organy ścigania lub inne organy rządowe, jeśli jesteśmy zobowiązani do udostępnienia tych informacji zgodnie z prawem.
 ### 4. Twoje prawa
 Masz prawo dostępu do swoich danych osobowych, sprostowania ich, usunięcia ich, ograniczenia ich przetwarzania, sprzeciwu wobec ich przetwarzania oraz przeniesienia ich do innego administratora danych. Możesz również wycofać swoją zgodę na przetwarzanie Twoich danych osobowych w dowolnym momencie. Aby skorzystać z tych praw, skontaktuj się ze mną pod adresem jarosinski.grzegorz@gmail.com.
 ### 5. Bezpieczeństwo
